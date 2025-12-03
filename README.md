@@ -69,27 +69,6 @@ A production-level system built with **React, Node.js, MySQL, ElasticSearch**.
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekstac&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekstac&theme=tokyonight" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekstac&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivekstac&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 📧 **Email:** [vivek96t@gmail.com](mailto:vivek96t@gmail.com)
@@ -98,4 +77,4 @@ A production-level system built with **React, Node.js, MySQL, ElasticSearch**.
 
 ---
 
-<h3 align="center">⭐ If you like my work, feel free to star my repos! ⭐</h3>
+<h3 align="center">⭐ Cheers Have a great day! ⭐</h3>
