@@ -37,7 +37,6 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge\&logo=elasticsearch)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
 ### 🛠 Tools
 
