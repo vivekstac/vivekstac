@@ -47,6 +47,15 @@
 
 ---
 
+## Github Live Projects URLs
+
+** NextJS GSAP Home Page Horizontal animations ** - [GSAP NEXT APP](https://vivekstac.github.io/next-gsap-scroll/)
+** Next ** - [Country Details App](https://vivekstac.github.io/countryapp/)
+** React Vite and React Flow ** - [HR Leave Management](https://vivekstac.github.io/countryapp/)
+** React and MockAPi | CRUD lists ** - [User Lists](https://github.com/vivekstac/userlist)
+
+---
+
 ## 📂 Featured Project — Farm Management System
 
 A production-level system built with **React, Node.js, MySQL, ElasticSearch**.
